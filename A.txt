@@ -1,1 +1,3 @@
 System.out.println("Thank you for teaching us");
+System.out.print("Wish you good luck and have a nice day");
+
