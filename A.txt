@@ -1,0 +1,1 @@
+System.out.print("Wish you good luck and have a nice day");
